@@ -3,6 +3,8 @@
 ALLCHANGER is a lightweight Python-based IP changer tool that uses the **Tor network** to automatically rotate your public IP address.  
 It provides a clean **CLI interface using Rich**, making it simple and visually clear to use.
 
+#WARNING THIS TOOL TEST
+
 ## ✨ Features
 
 - Automatic IP rotation using Tor
@@ -35,5 +37,6 @@ git clone https://github.com/anujin6969/allchanger.git
 cd allchanger
 chmod +x install.sh
 ./install.sh
+
 
 
